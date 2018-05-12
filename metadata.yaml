@@ -1,0 +1,31 @@
+_repo: Occasional-Thoughts-in-Reference-to-a-Vertuous-or-Christian-life_13285
+_version: 0.1.0
+alternative_title: Occasional Thoughts in Reference to a Virtuous or Christian life
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Masham, Damaris, Lady
+    aliases:
+    - Masham, Lady Damaris Cudworth
+    - Cudworth, Damaris
+    birthdate: 1658
+    deathdate: 1708
+    gutenberg_agent_id: '4976'
+    url: http://www.gutenberg.org/2009/agents/4976
+    wikipedia: http://oregonstate.edu/instruct/phl302/philosophers/masham.html
+description: ''
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Anglican authors'
+- !lcc 'BV'
+title: Occasional Thoughts in Reference to a Vertuous or Christian life
+url: http://www.gutenberg.org/ebooks/13285
